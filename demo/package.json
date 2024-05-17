@@ -1,0 +1,11 @@
+{
+    "name": "demo",
+    "version": "1.0.0",
+    "main": "de.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "crypto-js": "^4.2.0"
+    }
+}
